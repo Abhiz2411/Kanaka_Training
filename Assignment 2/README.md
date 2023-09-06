@@ -1,3 +1,27 @@
+# Kanaka Company Training Repository
+
+Welcome to the Kanaka Company Training Repository! This repository contains code and assignments completed during our training phase. Each folder in this repository corresponds to a specific assignment or problem-solving session.
+
+## Assignment 2 - Time Class
+
+The "Assignment 2" folder contains the code and related files for our second assignment, which is the "Time Class" program. In this assignment, we created a Java class called "Time" to represent time in hours, minutes, and seconds. The program allows users to set and retrieve time, as well as add two time objects together, handling carryover values correctly.
+
+### Features
+
+- **Set and Retrieve Time**: Users can set and retrieve time values (hours, minutes, and seconds) using the "Time" class.
+
+- **Add Time**: The program can add two time objects together and display the result, taking into account any carryover values.
+
+### Usage
+
+To use the "Time Class" program:
+
+1. Run the `Demo1` class to start the program.
+
+2. Follow the prompts to enter time values for two instances (`t1` and `t2`).
+
+3. The program will display the initial time values and the result of adding the two times together.
+
 ### Example
 
 Let's walk through an example of how to use the "Time Class" program:
@@ -26,10 +50,12 @@ Let's walk through an example of how to use the "Time Class" program:
 
 3. After entering the time values for both instances, the program will display the initial time values:
 
-`T1 time : 4:30:15`
+`T1 time : 4:30:15`<br>
 `T2 time : 2:45:50`
 
-4. The program will then calculate the sum of the two time instances and display the result, handling carryover values correctly:
+4. The program will then calculate t
+
+he sum of the two time instances and display the result, handling carryover values correctly:
 
 `------ Added time: Day 1: 7:16:5 ------`
 
