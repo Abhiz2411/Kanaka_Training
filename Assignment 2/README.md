@@ -26,12 +26,12 @@ Let's walk through an example of how to use the "Time Class" program:
 
 3. After entering the time values for both instances, the program will display the initial time values:
 
-T1 time : 4:30:15
-T2 time : 2:45:50
+`T1 time : 4:30:15`
+`T2 time : 2:45:50`
 
 4. The program will then calculate the sum of the two time instances and display the result, handling carryover values correctly:
 
------- Added time: Day 1: 7:16:5 ------
+`------ Added time: Day 1: 7:16:5 ------`
 
 
 This demonstrates how to use the "Time Class" program to set and add time values, as well as display the results. You can enter different time values to perform various time calculations.
