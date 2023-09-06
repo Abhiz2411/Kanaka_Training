@@ -1,34 +1,25 @@
-# Book Management System
+# Kanaka Company Training Repository
 
-This Java project is a simple Book Management System that allows users to input information about books, such as author name, total pages, price, and date of purchase.
+Welcome to the Kanaka Company Training Repository! This repository contains code and assignments completed during our training phase. Each folder in this repository corresponds to a specific assignment or problem-solving session.
 
-## Problem Statement
+## Assignment 1 - Book Management System
 
-You are tasked with developing a program that can store and manage information about books. Users should be able to input details for multiple books, including the author's name, the total number of pages, the price, and the date of purchase. The program should then display this information for each book entered.
-
-## Approach
-
-To solve this problem, we have created a Java program with two main classes:
-
-1. `Book`: This class represents a book object and contains attributes for the author's name, total pages, price, and date of purchase. It also provides getter and setter methods for these attributes.
-
-2. `Demo`: This class contains the main method where the user interacts with the program. It uses a Scanner object to take input from the user for the number of books and details of each book. It then creates an array of Book objects to store this information and displays it back to the user.
+The "Assignment 1" folder contains the code and related files for our first assignment. In this assignment, we implemented a simple Book Management System in Java. The program allows users to input information about books, including author name, total pages, price, and date of purchase. It provides a basic user interface for entering and displaying book details.
 
 ### Usage
 
-1. Run the `Demo` class to start the program.
+To run the "Assignment 1" program, follow the instructions provided in the README.md file inside the folder.
 
-2. Enter the number of books you want to input.
+## Assignment 2 - Time Class
 
-3. For each book, enter the following details:
-   - Author's name
-   - Total number of pages
-   - Price
-   - Date of purchase (Year, Month, Day)
+The "Assignment 2" folder contains the code and related files for our second assignment. In this assignment, we created a Java class called "Time" to represent time in hours, minutes, and seconds. The program allows users to set and retrieve time, as well as add two time objects together, handling carryover values correctly.
 
-4. The program will display the information you entered for each book.
+### Usage
 
-### Example
+To run the "Assignment 2" program, follow the instructions provided in the README.md file inside the folder.
 
-Here's an example of how to use the program:
+## Author
 
+- Abhijit Zende
+
+ Enjoy your training and happy coding!
