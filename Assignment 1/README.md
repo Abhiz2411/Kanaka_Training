@@ -32,26 +32,36 @@ To use the "Book Management System" program:
 
 ### Example
 
-Here's an example of how to use the program:
+Let's walk through an example of how to use the "Book Management System" program:
 
-Enter the number of books: 2
+1. Start the program by running the `Demo` class.
 
-Book 0:
-Enter the name of author: J.K. Rowling
-Enter number of pages in book: 432
-Enter the price of the book: 19.99
-Enter the date of purchase
-Year of purchase: 2022
-Month of purchase: 05
-Day of purchase: 15
-Book 1:
-Enter the name of author: George Orwell
-Enter number of pages in book: 328
-Enter the price of the book: 12.49
-Enter the date of purchase
-Year of purchase: 2023
-Month of purchase: 03
-Day of purchase: 20
+2. When prompted, enter the number of books you want to input. For this example, we'll enter `2`.
+
+
+3. Now, you'll be prompted to enter information for each book. Follow the prompts to enter details for each book:
+
+#### Book 0:
+- Enter the name of the author: **J.K. Rowling**
+- Enter the total number of pages in the book: **432**
+- Enter the price of the book: **19.99**
+- Enter the date of purchase:
+  - Year of purchase: **2022**
+  - Month of purchase: **05**
+  - Day of purchase: **15**
+
+#### Book 1:
+- Enter the name of the author: **George Orwell**
+- Enter the total number of pages in the book: **328**
+- Enter the price of the book: **12.49**
+- Enter the date of purchase:
+  - Year of purchase: **2023**
+  - Month of purchase: **03**
+  - Day of purchase: **20**
+
+4. After entering all the information for both books, the program will display the data you entered for each book:
+
+```
 The data you entered is as follows:
 Book 0 :
 Author: J.K. Rowling
@@ -63,4 +73,16 @@ Author: George Orwell
 Price: 12.49
 Total pages: 328
 Date of Purchase: 20/03/2023
+```
 
+The data you entered is as follows:
+Book 0 :
+Author: J.K. Rowling
+Price: 19.99
+Total pages: 432
+Date of Purchase: 15/05/2022
+Book 1 :
+Author: George Orwell
+Price: 12.49
+Total pages: 328
+Date of Purchase: 20/03/2023
